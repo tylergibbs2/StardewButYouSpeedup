@@ -1,0 +1,10 @@
+{
+  "Name": "StardewButYouSpeedup",
+  "Author": "Tyler Gibbs",
+  "Version": "1.0.0",
+  "Description": "Every step you take, you speed up slighty.",
+  "UniqueID": "tylergibbs2.stardewbutyouspeedup",
+  "EntryDll": "StardewButYouSpeedup.dll",
+  "MinimumApiVersion": "3.8",
+  "UpdateKeys": []
+}
